@@ -1,0 +1,3 @@
+sku,name_1,quantity_1,location_1,last_counted_1,name_2,quantity_2,location_2,last_counted_2,_merge
+SKU025,vga cable,50.0,warehouse b,2024-01-08,,,,,left_only
+SKU026,dvi cable,35.0,warehouse b,2024-01-08,,,,,left_only
