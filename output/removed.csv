@@ -1,0 +1,6 @@
+sku,name_1,quantity_1,location_1,last_counted_1,name_2,quantity_2,location_2,last_counted_2,_merge
+SKU076,,,,,stream deck mini,15.0,warehouse a,2024-01-15,right_only
+SKU077,,,,,stream deck xl,8.0,warehouse a,2024-01-15,right_only
+SKU078,,,,,capture card,12.0,warehouse a,2024-01-15,right_only
+SKU079,,,,,usb-c hub,45.0,warehouse a,2024-01-15,right_only
+SKU080,,,,,thunderbolt cable,30.0,warehouse a,2024-01-15,right_only

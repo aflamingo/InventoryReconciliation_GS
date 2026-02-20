@@ -1,0 +1,75 @@
+sku,name_1,quantity_1,location_1,last_counted_1,name_2,quantity_2,location_2,last_counted_2,_merge,qty_diff
+SKU001,widget a,150.0,warehouse a,2024-01-08,widget a,145.0,warehouse a,2024-01-15,both,5.0
+SKU002,widget b,75.0,warehouse a,2024-01-08,widget b,70.0,warehouse a,2024-01-15,both,5.0
+SKU003,gadget pro,200.0,warehouse b,2024-01-08,gadget pro,185.0,warehouse b,2024-01-15,both,15.0
+SKU004,gadget lite,50.0,warehouse a,2024-01-08,gadget lite,48.0,warehouse a,2024-01-15,both,2.0
+SKU005,connector cable 6ft,500.0,warehouse c,2024-01-08,connector cable 6ft,480.0,warehouse c,2024-01-15,both,20.0
+SKU006,connector cable 10ft,350.0,warehouse c,2024-01-08,connector cable 10ft,350.0,warehouse c,2024-01-15,both,0.0
+SKU007,power supply unit,80.0,warehouse a,2024-01-08,power supply unit,80.0,warehouse a,2024-01-15,both,0.0
+SKU008,power supply unit pro,45.0,warehouse a,2024-01-08,power supply unit pro,42.0,warehouse a,2024-01-15,both,3.0
+SKU009,mounting bracket small,1000.0,warehouse b,2024-01-08,mounting bracket small,975.0,warehouse b,2024-01-15,both,25.0
+SKU010,mounting bracket large,750.0,warehouse b,2024-01-08,mounting bracket large,720.0,warehouse b,2024-01-15,both,30.0
+SKU011,led panel 12x12,120.0,warehouse a,2024-01-08,led panel 12x12,115.0,warehouse a,2024-01-15,both,5.0
+SKU012,led panel 24x24,90.0,warehouse a,2024-01-08,led panel 24x24,85.0,warehouse a,2024-01-15,both,5.0
+SKU013,thermal paste tube,2000.0,warehouse c,2024-01-08,thermal paste tube,1850.0,warehouse c,2024-01-15,both,150.0
+SKU014,cooling fan 80mm,300.0,warehouse b,2024-01-08,cooling fan 80mm,290.0,warehouse b,2024-01-15,both,10.0
+SKU015,cooling fan 120mm,250.0,warehouse b,2024-01-08,cooling fan 120mm,245.0,warehouse b,2024-01-15,both,5.0
+SKU016,usb hub 4-port,180.0,warehouse a,2024-01-08,usb hub 4-port,165.0,warehouse a,2024-01-15,both,15.0
+SKU017,usb hub 7-port,95.0,warehouse a,2024-01-08,usb hub 7-port,88.0,warehouse a,2024-01-15,both,7.0
+SKU018,ethernet cable cat5,800.0,warehouse c,2024-01-08,ethernet cable cat5,750.0,warehouse c,2024-01-15,both,50.0
+SKU019,ethernet cable cat6,600.0,warehouse c,2024-01-08,ethernet cable cat6,580.0,warehouse c,2024-01-15,both,20.0
+SKU020,ethernet cable cat6a,400.0,warehouse c,2024-01-08,ethernet cable cat6a,390.0,warehouse c,2024-01-15,both,10.0
+SKU021,hdmi cable 3ft,450.0,warehouse a,2024-01-08,hdmi cable 3ft,425.0,warehouse a,2024-01-15,both,25.0
+SKU022,hdmi cable 6ft,380.0,warehouse a,2024-01-08,hdmi cable 6ft,365.0,warehouse a,2024-01-15,both,15.0
+SKU023,hdmi cable 10ft,220.0,warehouse a,2024-01-08,hdmi cable 10ft,210.0,warehouse a,2024-01-15,both,10.0
+SKU024,displayport cable,175.0,warehouse a,2024-01-08,displayport cable,170.0,warehouse a,2024-01-15,both,5.0
+SKU027,audio cable 3.5mm,600.0,warehouse c,2024-01-08,audio cable 3.5mm,575.0,warehouse c,2024-01-15,both,25.0
+SKU028,audio cable rca,400.0,warehouse c,2024-01-08,audio cable rca,385.0,warehouse c,2024-01-15,both,15.0
+SKU029,optical audio cable,150.0,warehouse c,2024-01-08,optical audio cable,145.0,warehouse c,2024-01-15,both,5.0
+SKU030,surge protector 6-outlet,200.0,warehouse a,2024-01-08,surge protector 6-outlet,188.0,warehouse a,2024-01-15,both,12.0
+SKU031,surge protector 12-outlet,120.0,warehouse a,2024-01-08,surge protector 12-outlet,112.0,warehouse a,2024-01-15,both,8.0
+SKU032,extension cord 10ft,300.0,warehouse b,2024-01-08,extension cord 10ft,285.0,warehouse b,2024-01-15,both,15.0
+SKU033,extension cord 25ft,180.0,warehouse b,2024-01-08,extension cord 25ft,172.0,warehouse b,2024-01-15,both,8.0
+SKU034,power strip,250.0,warehouse a,2024-01-08,power strip,240.0,warehouse a,2024-01-15,both,10.0
+SKU035,cable ties 100pk,1500.0,warehouse c,2024-01-08,cable ties 100pk,1420.0,warehouse c,2024-01-15,both,80.0
+SKU036,cable ties 500pk,400.0,warehouse c,2024-01-08,cable ties 500pk,385.0,warehouse c,2024-01-15,both,15.0
+SKU037,velcro straps 50pk,800.0,warehouse c,2024-01-08,velcro straps 50pk,765.0,warehouse c,2024-01-15,both,35.0
+SKU038,label maker,25.0,warehouse a,2024-01-08,label maker,22.0,warehouse a,2024-01-15,both,3.0
+SKU039,label tape,200.0,warehouse a,2024-01-08,label tape,185.0,warehouse a,2024-01-15,both,15.0
+SKU040,screwdriver set,150.0,warehouse b,2024-01-08,screwdriver set,142.0,warehouse b,2024-01-15,both,8.0
+SKU041,precision screwdriver set,100.0,warehouse b,2024-01-08,precision screwdriver set,95.0,warehouse b,2024-01-15,both,5.0
+SKU042,wire stripper,75.0,warehouse b,2024-01-08,wire stripper,70.0,warehouse b,2024-01-15,both,5.0
+SKU043,crimping tool,60.0,warehouse b,2024-01-08,crimping tool,58.0,warehouse b,2024-01-15,both,2.0
+SKU044,multimeter basic,40.0,warehouse a,2024-01-08,multimeter basic,35.0,warehouse a,2024-01-15,both,5.0
+SKU045,multimeter pro,25.0,warehouse a,2024-01-08,multimeter professional,23.0,warehouse a,2024-01-15,both,2.0
+SKU045,multimeter pro,25.0,warehouse a,2024-01-08,multimeter pro,-5.0,warehouse b,2024-01-15,both,30.0
+SKU046,soldering iron,35.0,warehouse b,2024-01-08,soldering iron,32.0,warehouse b,2024-01-15,both,3.0
+SKU047,solder wire,300.0,warehouse b,2024-01-08,solder wire,280.0,warehouse b,2024-01-15,both,20.0
+SKU048,heat shrink tubing,500.0,warehouse c,2024-01-08,heat shrink tubing,475.0,warehouse c,2024-01-15,both,25.0
+SKU049,electrical tape,800.0,warehouse c,2024-01-08,electrical tape,760.0,warehouse c,2024-01-15,both,40.0
+SKU050,anti-static wrist strap,200.0,warehouse a,2024-01-08,anti-static wrist strap,190.0,warehouse a,2024-01-15,both,10.0
+SKU051,anti-static mat,50.0,warehouse a,2024-01-08,anti-static mat,48.0,warehouse a,2024-01-15,both,2.0
+SKU052,compressed air can,400.0,warehouse c,2024-01-08,compressed air can,375.0,warehouse c,2024-01-15,both,25.0
+SKU053,isopropyl alcohol 99%,150.0,warehouse c,2024-01-08,isopropyl alcohol 99%,140.0,warehouse c,2024-01-15,both,10.0
+SKU054,microfiber cloth 10pk,300.0,warehouse c,2024-01-08,microfiber cloth 10pk,285.0,warehouse c,2024-01-15,both,15.0
+SKU055,screen cleaner,250.0,warehouse c,2024-01-08,screen cleaner,235.0,warehouse c,2024-01-15,both,15.0
+SKU056,keyboard cleaner gel,180.0,warehouse c,2024-01-08,keyboard cleaner gel,168.0,warehouse c,2024-01-15,both,12.0
+SKU057,monitor stand,45.0,warehouse a,2024-01-08,monitor stand,42.0,warehouse a,2024-01-15,both,3.0
+SKU058,laptop stand,60.0,warehouse a,2024-01-08,laptop stand,58.0,warehouse a,2024-01-15,both,2.0
+SKU059,tablet stand,80.0,warehouse a,2024-01-08,tablet stand,75.0,warehouse a,2024-01-15,both,5.0
+SKU060,phone stand,120.0,warehouse a,2024-01-08,phone stand,115.0,warehouse a,2024-01-15,both,5.0
+SKU061,desk organizer,90.0,warehouse b,2024-01-08,desk organizer,85.0,warehouse b,2024-01-15,both,5.0
+SKU062,cable management box,110.0,warehouse b,2024-01-08,cable management box,105.0,warehouse b,2024-01-15,both,5.0
+SKU063,headphone hook,200.0,warehouse b,2024-01-08,headphone hook,192.0,warehouse b,2024-01-15,both,8.0
+SKU064,webcam mount,75.0,warehouse a,2024-01-08,webcam mount,72.0,warehouse a,2024-01-15,both,3.0
+SKU065,ring light 10in,40.0,warehouse a,2024-01-08,ring light 10in,38.0,warehouse a,2024-01-15,both,2.0
+SKU066,ring light 18in,25.0,warehouse a,2024-01-08,ring light 18in,22.0,warehouse a,2024-01-15,both,3.0
+SKU067,tripod small,55.0,warehouse b,2024-01-08,tripod small,52.0,warehouse b,2024-01-15,both,3.0
+SKU068,tripod large,35.0,warehouse b,2024-01-08,tripod large,33.0,warehouse b,2024-01-15,both,2.0
+SKU069,green screen,20.0,warehouse a,2024-01-08,green screen,18.0,warehouse a,2024-01-15,both,2.0
+SKU070,backdrop stand,15.0,warehouse a,2024-01-08,backdrop stand,12.0,warehouse a,2024-01-15,both,3.0
+SKU071,usb microphone,30.0,warehouse a,2024-01-08,usb microphone,28.0,warehouse a,2024-01-15,both,2.0
+SKU072,xlr microphone,20.0,warehouse a,2024-01-08,xlr microphone,18.0,warehouse a,2024-01-15,both,2.0
+SKU073,pop filter,100.0,warehouse b,2024-01-08,pop filter,95.0,warehouse b,2024-01-15,both,5.0
+SKU074,boom arm,45.0,warehouse b,2024-01-08,boom arm,42.0,warehouse b,2024-01-15,both,3.0
+SKU075,shock mount,40.0,warehouse b,2024-01-08,shock mount,38.0,warehouse b,2024-01-15,both,2.0
